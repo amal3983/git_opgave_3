@@ -1,5 +1,5 @@
 #Opgave 3!
-det her er linje 2
+Dette er en fed introduktion! Vi laver en masse konflikter!
 Vi skal lave en konflikt med vilje!
 ######her ville der aldrig være et problem
 **Dette er et FINT indlæg**
